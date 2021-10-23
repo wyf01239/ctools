@@ -22,7 +22,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e81c8ba3-5b46-482d-9380-6541f8b4c36f}</ProjectGuid>
+    <ProjectGuid>{c5d0babd-5d39-472e-8699-d8d1f8fc705a}</ProjectGuid>
     <RootNamespace>wfileio</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
